@@ -1,0 +1,8 @@
+{
+  "name": "asyncforeach",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yudaprama/asyncforeach.git",
+  "author": "Yuda Prama <yudaprama@gmail.com>",
+  "license": "MIT"
+}
